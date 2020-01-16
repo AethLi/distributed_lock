@@ -1,4 +1,4 @@
-package cn.aethli.lock.config;
+package cn.aethli.lock.aspect;
 
 import cn.aethli.lock.annotation.DistributedLock;
 import cn.aethli.lock.common.emnus.ResponseStatus;
